@@ -113,5 +113,5 @@ source $HOME/.rbenv 2> /dev/null
 if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 
 # Autoenv
-source $(brew --prefix autoenv)/activate.sh
+#source $(brew --prefix autoenv)/activate.sh
 
